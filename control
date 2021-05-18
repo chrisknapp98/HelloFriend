@@ -1,0 +1,9 @@
+Package: com.chrisknapp.hellofriend
+Name: HelloFriend
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Overwrites the 'Swipe To Unlock' text to 'Hello, friend.' 
+Maintainer: Christopher Knapp
+Author: Christopher Knapp
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
